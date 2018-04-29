@@ -38,6 +38,10 @@ Er stand auf seines Daches Zinnen und schaute mit vergnügten Sinnen auf das beh
 
 As you can see the textsize is reduced down to 69% of the original text, which I pipe out after decoding. So, it works
 
+## Dependency
+
+Trickle: https://github.com/bjornbytes/trickle
+
 ## todo
 
 I still am in early development, I don't have my third codepage filled out completely, more than 300 characters are still free to go. And after this first step to implement most common characters up to the complete latin environmen of UTF, I am pondering how to easy implement the rest. 
