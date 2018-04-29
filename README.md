@@ -44,4 +44,4 @@ Trickle: https://github.com/bjornbytes/trickle
 
 ## todo
 
-I still am in early development, I don't have my third codepage filled out completely, more than 300 characters are still free to go. And after this first step to implement most common characters up to the complete latin environmen of UTF, I am pondering how to easy implement the rest. 
+I still am in early development, I don't have my third codepage filled out completely, more than 300 characters are still free to go. And after this first step to implement most common characters up to the complete latin environmen of UTF, I am pondering how to easy implement the rest. I think, I have yet not implemented all control codes of original ASCII. Should be the next thing to do, I guess.
