@@ -5,7 +5,9 @@ Implementation of my weekend project, a 4-bit based Unicode encoder (in Lua, but
 
 Well, I thought it would be nice to have an UTF encoder that works with nibbles as its natural size, so that if I put the typical most used ENIRSAT plus Space into the first eight characters of the first nibble, I could well, reduce the size of any transmitted text over a bandwidth by great means, without actually needing to pack them. 
 
-I came up with that silly idea, because I was working on code for my students, who happen to do classic cryptology at the time and I ased myself if that was possible. Because I'm at the moment mainly playing around with the idea more than having a product, I hacked that thing quickly in Lua.
+I came up with that silly idea, because I was working on code for my students, who happen to do classic cryptology at the time and I asked myself if that was possible. Because I'm at the moment mainly playing around with the idea more than having a product, I hacked that thing quickly in Lua. I mean, why not using all the bits we have and don't waste them?
+
+Bandwidth isn't developing at all. We try to go higher up in the frequency range, but shortage of bandwidth when it comes to transmitting never changes, I just say: "SMS", if you know what I mean.
 
 ## Test
 
