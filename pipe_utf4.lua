@@ -1,5 +1,5 @@
 #!/usr/bin/env luajit
-require "ccrypt"
+-- require "ccrypt"
 local trickle=require "trickle"
 utf4={}
 local tab={
