@@ -49,7 +49,7 @@ Er stand auf seines Daches Zinnen und schaute mit vergnügten Sinnen auf das beh
 000000d0: 0a 
 ```
 
-As you can see the textsize is reduced down to 69% of the original text, which I pipe out after decoding. So, it works
+As you can see the textsize is reduced down to about 63% of the original text, which I pipe out after decoding. So, it works
 
 ## Dependency
 
